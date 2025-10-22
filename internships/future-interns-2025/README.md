@@ -46,3 +46,44 @@
 ---
 
 ## 🛠️ **15+ SKILLS DEMONSTRATED**
+🔴 EXPLOITATION: Metasploit • SQL Injection • Backdoors
+🔴 CRACKING: John the Ripper • WPA2 Handshakes
+🔴 SCANNING: Nmap • OWASP ZAP
+🔴 ANALYSIS: Wireshark • Traffic Monitoring
+🔴 SOCIAL: GoPhish • Phishing Simulations
+🔴 LINUX: Kali • SSH • Virtual Labs
+
+---
+
+## 📁 **FULL PORTFOLIO CONTENTS**
+
+9 Projects • 10+ Screenshots • 2 Reports • 2 Certificates
+Total Size: 15MB+ Technical Documentation
+
+---
+
+## 🏆 **ACHIEVEMENTS**
+✅ **2 Internships Completed**  
+✅ **9 Hands-On Projects**  
+✅ **Completion Certificates**  
+✅ **Recommendation Letters**  
+✅ **Technical Reports (36+ Pages)**  
+
+---
+
+## 🎓 **NEXT MILESTONES**
+- [ ] **CompTIA Security+**  
+- [ ] **OSCP Certification**  
+- [ ] **Bug Bounty**  
+- [ ] **Junior Pentester Role**
+
+---
+
+## 📞 **CONNECT**
+[📧 denochlin@gmail.com](mailto:denochlin@gmail.com)  
+[🔗 LinkedIn](https://www.linkedin.com/in/enochlinbaffoe)  
+
+**"From monitoring threats to exploiting vulnerabilities"**
+
+---
+*Updated: October 22, 2025*
