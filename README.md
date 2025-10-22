@@ -13,7 +13,7 @@
 | Period | Organization | Duration | Key Projects |
 |--------|--------------|----------|--------------|
 | **Oct 2025** | [Young Cyber Knights Foundation](https://youngcyberknightsfoundation.org) | **2 Months** | 6 Hands-on Projects |
-| **Jun 2025** | Future Interns Program | **TBD** | [Upload Report] |
+| **Jun 2025** | Future Interns Program | **1 Months** | 3 Hands-on Projects |
 
 ---
 
